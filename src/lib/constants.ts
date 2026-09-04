@@ -115,7 +115,7 @@ export const experiences: Experience[] = [
     techLine: "LARAVEL · LUMEN · REACT · NEXT.JS · MYSQL · DOCKER",
   },
   {
-    period: "MAR 2023 — AGO 2024",
+    period: "MAR 2024 — AGO 2024",
     role: "Auxiliar de Geoinformação",
     company: "Versaurb",
     location: "Caratinga, MG",
@@ -184,8 +184,8 @@ export const contactLinks: ContactLink[] = [
   {
     type: "github",
     label: "GitHub",
-    value: "/pedroazvedoc",
-    url: "https://github.com/pedroazvedoc",
+    value: "/pedroazevedoc",
+    url: "https://github.com/pedroazevedoc",
   },
 ];
 
