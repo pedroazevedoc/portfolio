@@ -14,11 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pedro Azevedo Costa | Engenheiro de Software Full Stack",
+  title: "Pedro Azevedo Costa | Desenvolvedor Full Stack",
   description: "Pedro Azevedo Costa transforma ideias em experiências digitais escaláveis, rápidas e orientadas a resultados.",
-  keywords: ["Pedro Azevedo Costa", "Engenheiro de Software", "Full Stack", "Desenvolvimento Web", "React", "Laravel"],
+  keywords: ["Pedro Azevedo Costa", "Desenvolvedor", "Full Stack", "Desenvolvimento Web", "React", "Laravel"],
   openGraph: {
-    title: "Pedro Azevedo Costa | Engenheiro de Software Full Stack",
+    title: "Pedro Azevedo Costa | Desenvolvedor Full Stack",
     description: "Soluções digitais que unem excelência técnica e valor real de negócio.",
     type: "website",
     locale: "pt_BR",
