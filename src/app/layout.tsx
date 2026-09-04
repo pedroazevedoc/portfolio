@@ -29,7 +29,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="pt-BR"
+      suppressHydrationWarning
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased bg-background`}
+      data-scroll-behavior="smooth"
     >
       <body className="min-h-full flex flex-col">
         {children}
